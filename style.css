@@ -5,6 +5,7 @@ h1,h3, button{
 .wrapper {
     text-align: center;
     background-color: #ffffff;
+    border: 2mm ridge #173;
     width: 500px;
     margin-left: 35%;
     margin-top: 55px;
